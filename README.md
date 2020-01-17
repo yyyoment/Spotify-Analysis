@@ -6,6 +6,6 @@ Spotify is one of the top music streaming service around . With 35+ million song
 
 Recently, I discovered that the Spotify API provides audio features for each song in its database, with which we are able to quantify a song. Therefore, I would like to conduct some music analysis based on it.
 
-This project is divided into two parts. The goal in Part I is to analyze what song characteristics would affect its popularity. To achieve this, I built up a regression model and set the popularity as the dependent variable. The goal in Part II is to create a like song prediction system for a specific spotify user.
+This project is divided into two parts. The goal in Part I is to analyze what song characteristics would affect its popularity. To achieve this, I built up a regression model and set the popularity as the dependent variable. The goal in Part II is to create a like song prediction system for a specific spotify user. A Shiny App is deployed to show my analysis result.
 
 For the study, I will access the Spotify Web API, which provides data from the Spotify music catalog. This can be accessed via standard HTTPS requests to an API endpoint.
