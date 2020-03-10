@@ -9,3 +9,5 @@ Recently, I discovered that the Spotify API provides audio features for each son
 This project is divided into two parts. The goal in Part I is to analyze what song characteristics would affect its popularity. To achieve this, I built up a regression model and set the popularity as the dependent variable. The goal in Part II is to create a like song prediction system for a specific spotify user. A Shiny App is deployed to show my analysis result.
 
 For the study, I will access the Spotify Web API, which provides data from the Spotify music catalog. This can be accessed via standard HTTPS requests to an API endpoint.
+
+You can access to the full analysis report here: https://yyyoment.github.io/yan-yun/work/spotify.html
